@@ -1,2 +1,2 @@
-# cs224d
-stanford cs224d 2016 assignment
+# CS224d
+Stanford CS224d 2016 assignment
